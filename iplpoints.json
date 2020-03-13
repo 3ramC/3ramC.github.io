@@ -1,0 +1,81 @@
+[{
+		"name": "CSK",
+		"namefull": "Chennai Super Kings",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "MI",
+		"namefull": "Mumbai Indians",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "DC",
+		"namefull": "Delhi Capitals",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "KXIP",
+		"namefull": "Kings XI Punjab",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "KKR",
+		"namefull": "Kolkata Knight Riders",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "RR",
+		"namefull": "Rajasthan Royals",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "RCB",
+		"namefull": "Royal Challengers Bangalore",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	},
+	{
+		"name": "SRH",
+		"namefull": "Sunrisers Hyderabad",
+		"matches": "0",
+		"won": "0",
+		"lost": "0",
+		"netrate": "0.000",
+		"points": "0",
+		"lastmatches" : ""
+	}
+]
